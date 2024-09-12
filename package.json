@@ -1,0 +1,22 @@
+{
+  "name": "robloxapi",
+  "version": "1.0.0",
+  "description": "profil roblox dengan api",
+  "main": "express.js",
+  "scripts": {
+    "test": "node express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "keywords": [
+    "polybotofc"
+  ],
+  "author": "luthfi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "node-fetch": "^2.7.0"
+  }
+}
